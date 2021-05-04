@@ -1,7 +1,7 @@
 
 
 PATH_TO_INPUT_DATA = r"."
-TIME_SERIES_FILENAME = r"consolidated-metrics.csv"
+TIME_SERIES_FILENAME = r"input_data.csv"
 IS_DEMO_VERSION = True
 
 ########################################################################################################################
